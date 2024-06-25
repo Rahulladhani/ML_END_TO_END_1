@@ -1,4 +1,6 @@
 import sys
+import sys
+sys.path.append('E:/Study/Projects/END to END/END_TO_END_1')
 from src.logger import logging
 
 
